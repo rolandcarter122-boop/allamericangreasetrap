@@ -1,0 +1,47 @@
+    <br><br><br><br>
+    <div class="containeralooma" id="contact">
+        <section class="boxalooma">
+        <div class="row">
+            <div class="col-12">
+                <h2 class="template4 h2alooma" style="margin-left: 400px; font-size: larger; font-family: Verdana, Geneva, Tahoma, sans-serif;">Frequently Asked Questions</h2>
+                <h4 class="template4 palooma" style="font-size:medium;">How often should grease traps be cleaned in restaurants across the U.S.?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Most restaurants should have their grease traps cleaned every 1 to 3 months, depending on volume and size.</p>
+                <h4 class="template4 palooma" style="font-size:large;">What happens if I don’t clean my grease trap regularly?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Neglecting cleanings can cause odors, clogs, and even health department fines.</p>
+                <h4 class="template4 palooma" style="font-size:large;">Do you offer grease trap installation nationwide?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Yes, we install and replace grease traps for commercial, industrial, and educational facilities across the United States.</p>
+                <h4 class="template4 palooma" style="font-size:large;"> Are your technicians certified to perform grease interceptor cleaning in all states?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Yes, our crews are trained and fully compliant with local and national waste management codes.</p>
+                <h4 class="template4 palooma" style="font-size:large;">Can I schedule same-day grease trap pumping near my location?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">In many areas, yes. We offer flexible scheduling and emergency response services nationwide.</p>
+                <div class="callalooma mx-auto"><a href="tel:801346-9061">Click Here To Call Us (801) 346-9061</a></div>
+            </div>
+        </div>
+        </section>
+    </div>
+    
+    <br><br><br><br>
+    <div class="containeralooma">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">#State Insights: Population,<br> Zip Codes, Influence, and Service Areas</h2>
+        <p>aloomaidcontentscity</p>
+        <p style="color:black;">Zip Codes in #State that we also serve: <i>aloomaidzip</i></p>
+        </section>
+    </div>
+
+    <br><br><br><br>
+    <div class="containeralooma" style="background-color: transparent; width: 100%;">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">Cities Close To #State That We Also Serve</h2>
+        <div class="row">
+            aloomaidcitycloseto
+        </div>
+        <br><br>
+        aloomaidembeddedmap
+        </section>
+    </div>
